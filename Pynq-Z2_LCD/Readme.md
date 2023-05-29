@@ -1,4 +1,4 @@
-#LCD12864
+# LCD12864
 
 Verilog LCD 128x64 controller on Pynq-Z2 FPGA board. 
 
